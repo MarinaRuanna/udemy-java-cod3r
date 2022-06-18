@@ -25,7 +25,9 @@ public class Desafio12MaiorDeTodos {
             } else {
                 contador ++;
             }
-        } while (contador < 5);
+        } while (contador != 10);
         System.out.printf("O maior valor digitado foi %s", maior);
+
+        scan.close();
     }
 }
