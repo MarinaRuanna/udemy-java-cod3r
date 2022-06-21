@@ -1,8 +1,5 @@
-import java.util.Scanner;
-
-public class teste {
+public class teste1 {
     public static void main(String[] args) {
-
 
     }
 }
